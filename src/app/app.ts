@@ -9,4 +9,8 @@ import { RouterOutlet } from '@angular/router';
 })
 export class App {
   protected title = 'perfect-auth';
+
+  helloWorld() {
+    console.log('hello world');
+  }
 }
