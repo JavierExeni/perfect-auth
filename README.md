@@ -1,5 +1,7 @@
 # PerfectAuth
 
+## Template para diferentes escenarios de Autorización con Angular
+
 VScode extensions
 
 - Angular Language Service
@@ -67,3 +69,5 @@ eslint.configs.recommended,
 eslintPluginPrettierRecommended, <-- add this
 ],
 ...
+
+Git hooks
